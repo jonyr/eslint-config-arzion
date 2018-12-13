@@ -3,16 +3,19 @@
     "version": "1.0.0",
     "description": "eslint rules Arzion",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "keywords": [
         "eslint",
-        "eslintconfig"
+        "eslintconfig",
+        "arzionsrl",
+        "arzion"
     ],
     "author": "ArzionSRL",
     "license": "ISC",
     "peerDependencies": {
         "eslint-config-airbnb": "17.1.0"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jonyr/eslint-config-arzion.git"
+      }
 }
