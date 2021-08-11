@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-arzion",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "eslint rules for Arzion coders based on Airbnb",
     "main": "index.js",
     "keywords": [
@@ -11,8 +11,8 @@
     ],
     "author": "ArzionSRL",
     "license": "ISC",
-    "devDependencies": {
-        "eslint-config-airbnb": "18.2.1"
+    "peerDependencies": {
+        "eslint-config-airbnb": ">=18.2.1"
     },
     "repository": {
         "type": "git",
